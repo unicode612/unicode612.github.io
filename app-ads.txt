@@ -73,3 +73,4 @@ indexexchange.com, 194520, RESELLER, 50b1c356f2c5c8fc
 onetag.com, 664e107d9f2b748, RESELLER
 conversantmedia.com, 100270, RESELLER, 03113cd04947736d
 google.com, pub-2329555560597510, DIRECT, f08c47fec0942fa0
+facebook.com, 670449794743975, DIRECT, c3e20eee3f780d68
